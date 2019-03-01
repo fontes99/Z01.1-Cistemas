@@ -14,5 +14,4 @@ end entity;
 architecture arch of Mux4Way is
 begin
 
-
 end architecture;
